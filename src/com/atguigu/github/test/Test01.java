@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("hello, github服务器02");
 		System.out.println("hello, github服务器03");
 		System.out.println("hello, github服务器04");
-		System.out.println("hello, java");	
+		System.out.println("hello, java");
+		System.out.println("hello, 回复java");
 	}
 }
