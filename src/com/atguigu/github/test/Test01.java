@@ -10,5 +10,6 @@ public class Test01 {
 		System.out.println("hello, java");
 		System.out.println("hello, 回复java");
 		System.out.println("hello, 回复server");
+		System.out.println("hello, 回复java02");
 	}
 }
